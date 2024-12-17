@@ -1,4 +1,0 @@
-Test
-* one
-* two
-* three
